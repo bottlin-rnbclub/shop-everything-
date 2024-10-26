@@ -56,8 +56,7 @@ To start the development server, run the command:
 ![Image alt](https://github.com/bottlin-rnbclub/shop-everything-/blob/main/image%20for%20git/5.png)
 ![Image alt](https://github.com/bottlin-rnbclub/shop-everything-/blob/main/image%20for%20git/6.png)
 ![Image alt](https://github.com/bottlin-rnbclub/shop-everything-/blob/main/image%20for%20git/7.png)
-<<<<<<< HEAD
 ![Image alt](https://github.com/bottlin-rnbclub/shop-everything-/blob/main/image%20for%20git/8.png)
 ![Image alt](https://github.com/bottlin-rnbclub/shop-everything-/blob/main/image%20for%20git/9.png)
-=======
->>>>>>> 65230732e616370fb0aef23be130413a31dc7d20
+
+
