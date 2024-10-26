@@ -1,8 +1,6 @@
 import React from "react";
-
 import styles from "../../styles/Home.module.css";
-
-import bannerImg from "../../images/banner.png";
+import bannerImg from "../../images/convers.jpg";
 
 const Banner = () => (
   <section className={styles.banner}> 

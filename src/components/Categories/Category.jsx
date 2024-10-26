@@ -20,7 +20,7 @@ const Category = () => {
 
   const defaultParams = {
     categoryId: id,
-    limit: 5,
+    limit: 2,
     offset: 0,
     ...defaultValues,
   };
@@ -40,7 +40,6 @@ const Category = () => {
     setItems([]);
     setEnd(false);
     setParams({ ...defaultParams, categoryId: id });
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [id]);
 
   useEffect(() => {

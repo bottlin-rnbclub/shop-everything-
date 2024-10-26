@@ -24,7 +24,7 @@ const Home = () => {
   return (
     <>
       <Poster />
-      <Products products={list} amount={5} title="На хайпе 1с" />
+      <Products products={list} amount={5} title="Watch Here" />
       <Categories products={categories.list} amount={5} title="Worth seeing" />
       <Banner />
       <Products products={filtered} amount={5} title="Less than 100$" />
